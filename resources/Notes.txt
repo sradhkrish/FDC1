@@ -1,0 +1,4 @@
+1. Sum of Natural Numbers
+1+2+3+4+5+6+.......+n=sum
+
+Sum of Natural Numbers = n *(n+1)/2
